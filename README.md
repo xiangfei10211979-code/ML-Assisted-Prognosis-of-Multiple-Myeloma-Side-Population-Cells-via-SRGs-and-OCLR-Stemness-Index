@@ -1,7 +1,7 @@
 # MLAssisted-Prognosis-of-Multiple-Myeloma-Side-Population-Cells-via-SRGs-and-OCLR-Stemness-Index
 # ---README ---
 
-Project purpose: reproducible pipeline for mRNAsi, WGCNA, ssGSEA, pathway-based prognostic optimization and validation using R and MATLAB. Follow the "Gemini" standards below before running analyses.
+Project purpose: reproducible pipeline for mRNAsi, WGCNA, ssGSEA, pathway-based prognostic optimization and validation using R and MATLAB. Follow the standards below before running analyses.
 
 Top-level instructions (must be applied across all scripts):
 - Remove absolute local paths; use relative paths only. Define every path in a single Configuration block at the top of each script and never hard-code elsewhere.
